@@ -10,4 +10,4 @@ This is a repository related to a course of R with 6 modules taken during March 
 ## Next Steps:
 - Add more content to this repository.
 
-![Alt Text]([image_url](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png))
+![Alt Text]((https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png))
